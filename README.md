@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Pranshu Chakraborty
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 - :man_technologist: I’m currently working on Python projects.
 - 🌱 I’m learning Computer Vision & Deep Learning.
@@ -34,6 +34,6 @@
 
 [linkedin]: https://www.linkedin.com/in/pranshuc1/
 [twitter]: https://twitter.com/pranshuc1
-[youtube]: https://youtube.com/pranshuc
+[youtube]: https://youtube.com/channel/UCLKbdDP1DinzBoMEFAZcd2Q
 [Hashnode]: https://pranshuc.com
 [Medium]: https://medium.com/@pranshuc1
